@@ -24,9 +24,9 @@ function App() {
     setMouseY(e.clientY);
   };
 
-  const handleMouseLeave = () => {
-    setSelectedCode(null);
-  };
+  // const handleMouseLeave = () => {
+  //   setSelectedCode(null);
+  // };
 
   const filteredPolygons = polygonData.filter(
     (item: PolygonData) =>
