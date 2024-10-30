@@ -1,0 +1,5 @@
+.polygon-hover:hover {
+    fill: #ff5722; /* Change to any color you want on hover */
+    cursor: pointer; /* Change cursor to indicate interactivity */
+  }
+ 
